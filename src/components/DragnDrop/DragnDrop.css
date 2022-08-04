@@ -1,0 +1,27 @@
+li {
+  list-style: none;
+  padding: 20px;
+  cursor: pointer;
+  border: 1px solid black;
+  margin: 5px;
+}
+.foodEnter {
+  text-align: center;
+}
+input {
+  padding: 10px;
+  width: 80%;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+ul {
+  min-height: 100px;
+  height: fit-content;
+  width: 40%;
+  margin-left: 20px;
+  box-shadow: 0 0 3px black;
+  padding: 20px;
+}
